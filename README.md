@@ -6,7 +6,7 @@ Submitted by: **Mike Domingue**
 
 Time spent: **6 and a half** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://github.com/123MikeDomingue/Light-and-Memory-Game#pre-work---memory-game)
 
 ## Required Functionality
 
